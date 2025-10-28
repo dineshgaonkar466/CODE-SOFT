@@ -1,0 +1,7 @@
+A basic calculator application written in Python that performs arithmetic operations such as addition, subtraction, multiplication, and division.
+
+⚙️ Features
+Performs four main math operations
+User-friendly interface
+Error handling for invalid inputs
+Instant result display

@@ -1,0 +1,7 @@
+A simple Python game where the user competes with the computer by choosing Rock, Paper, or Scissors. The computer’s choice is random, and the winner is decided based on classic game rules.
+
+⚙️ Features
+User vs Computer gameplay
+Randomized computer choice
+Displays result clearly (Win/Lose/Draw)
+Easy command-line interface

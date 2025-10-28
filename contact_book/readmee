@@ -1,0 +1,8 @@
+The Contact Book is a small Python project that stores and manages contact details like name, phone number, and email. It allows adding, updating, searching, and deleting contacts.
+
+⚙️ Features
+Add new contact
+View all saved contacts
+Search by name or phone number
+Update or delete existing contacts
+Stores data in memory or file

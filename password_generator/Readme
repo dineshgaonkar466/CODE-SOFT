@@ -1,0 +1,6 @@
+This project is a simple Python-based password generator that creates strong and secure passwords for users. It helps protect accounts from being hacked by generating random combinations of characters.
+
+⚙️ Features
+Generates random strong passwords
+User can choose password length
+Includes uppercase, lowercase, digits, and special characterss
